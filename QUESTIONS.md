@@ -1,1 +1,1 @@
-
+### [Q1. Given two numbers A and B. The task is to find out their LCM and GCD.]
